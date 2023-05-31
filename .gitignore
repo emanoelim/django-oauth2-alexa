@@ -1,0 +1,11 @@
+.idea
+.env
+.vscode
+*pyc
+__pycache__
+staticfiles
+.coverage
+data/*
+mysql/*
+db.sqlite3
+db/*
